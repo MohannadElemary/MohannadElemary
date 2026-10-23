@@ -4,40 +4,20 @@
 
 <p><strong>Senior Software Engineer</strong> · Cairo, Egypt · 10+ years in backend engineering</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF2D20&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=PHP%20%C2%B7%20Symfony%20%C2%B7%20Laravel%20%C2%B7%20MySQL%20%C2%B7%20Redis;APIs%2C%20async%20processing%20and%20integrations;Built%20a%20fitness%20app%20with%2013%2C000%2B%20registered%20accounts" alt="PHP, Symfony, Laravel, MySQL, Redis. APIs, async processing and integrations. Built a fitness app with 13,000+ registered accounts."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF2D20&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=PHP%20%C2%B7%20Laravel%20%C2%B7%20Symfony%20%C2%B7%20MySQL%20%C2%B7%20Redis;APIs%2C%20async%20processing%20and%20integrations;Systems%20serving%20100M%2B%20monthly%20active%20users" alt="PHP, Laravel, Symfony, MySQL, Redis. APIs, async processing and integrations. Systems serving 100M+ monthly active users."/>
 
 <p>
   <a href="https://www.linkedin.com/in/mohannad-elemary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D&amp;labelColor=0D1117" alt="Connect with Mohannad Elemary on LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Scale-100M%2B%20monthly%20active%20users-FF2D20?style=for-the-badge&amp;labelColor=0D1117" alt="Scale: 100M+ monthly active users"/>
 </p>
 
 </div>
 
 ## 👋 About me
 
-I design, build and run backend systems across **financial services**, **e-commerce** and **consumer products**. My work spans PHP services, APIs, background processing, data stores, integrations and production operations.
+I design, build and run backend systems across **financial services**, **e-commerce** and **consumer products**. I've worked on systems serving **100M+ monthly active users**. My work spans PHP services built with Laravel and Symfony, APIs, background processing, data stores, integrations and production operations.
 
-> I pay attention to the failure paths: retried jobs, duplicate webhooks, slow queries and partial updates that leave systems inconsistent.
-
-## 📱 Built end to end: a consumer fitness app
-
-I built and operated a consumer fitness app end to end, working across the backend, infrastructure and the **Flutter** mobile apps for **iOS** and **Android**.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Registered%20accounts-13%2C000%2B-FF2D20?style=for-the-badge&amp;labelColor=0D1117" alt="13,000+ registered accounts"/>
-<img src="https://img.shields.io/badge/Platforms-iOS%20%2B%20Android-161B22?style=for-the-badge&amp;labelColor=0D1117" alt="Platforms"/>
-<img src="https://img.shields.io/badge/Scope-Backend%20to%20mobile-161B22?style=for-the-badge&amp;labelColor=0D1117" alt="Scope"/>
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">🤖<br/><b>AI-powered features</b><br/><sub>AI integrations inside the app</sub></td>
-<td align="center" width="25%">💳<br/><b>Subscriptions</b><br/><sub>Subscriptions and billing flows</sub></td>
-<td align="center" width="25%">⚙️<br/><b>Background workers</b><br/><sub>Queued jobs and scheduled tasks</sub></td>
-<td align="center" width="25%">🔔<br/><b>Notifications</b><br/><sub>Notifications and third-party integrations</sub></td>
-</tr>
-</table>
+> I think in terms of domain-driven design, event-driven architecture, CQRS, clean and hexagonal architecture, SOLID and well-defined service boundaries.
 
 ## 🛠️ What I work on
 
@@ -46,13 +26,13 @@ I built and operated a consumer fitness app end to end, working across the backe
 <td width="50%" valign="top">
 
 ### 🏗️ APIs and data
-Designing REST APIs and database workflows that support evolving product requirements.
+Designing high-traffic REST APIs and database workflows that support evolving product requirements.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Async processing and performance
-Redis caching, queues, background workers and investigating slow requests.
+Redis caching, queues, background workers, horizontal scaling and investigating slow requests.
 
 </td>
 </tr>
@@ -81,8 +61,8 @@ Diagnosing production issues, testing changes, and shipping with Docker and CI/C
 <td align="right"><b>🧠 Core</b></td>
 <td>
 <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&amp;logo=php&amp;logoColor=8892BF" alt="PHP"/>
-<img src="https://img.shields.io/badge/Symfony-161B22?style=for-the-badge&amp;logo=symfony&amp;logoColor=FFFFFF" alt="Symfony"/>
 <img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Symfony-161B22?style=for-the-badge&amp;logo=symfony&amp;logoColor=FFFFFF" alt="Symfony"/>
 </td>
 </tr>
 <tr>
@@ -103,18 +83,14 @@ Diagnosing production issues, testing changes, and shipping with Docker and CI/C
 </td>
 </tr>
 <tr>
-<td align="right"><b>📱 Mobile &amp; AI</b></td>
+<td align="right"><b>🤖 AI &amp; tooling</b></td>
 <td>
-<img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&amp;logo=flutter&amp;logoColor=02569B" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-161B22?style=for-the-badge&amp;logo=dart&amp;logoColor=0175C2" alt="Dart"/>
-<img src="https://img.shields.io/badge/iOS-161B22?style=for-the-badge&amp;logo=apple&amp;logoColor=FFFFFF" alt="iOS"/>
-<img src="https://img.shields.io/badge/Android-161B22?style=for-the-badge&amp;logo=android&amp;logoColor=3DDC84" alt="Android"/>
 <img src="https://img.shields.io/badge/AI%20integrations-161B22?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGMkQyMCIgZD0iTTEwIDJsMi4yIDYuM0wxOC41IDEwLjVsLTYuMyAyLjJMMTAgMTlsLTIuMi02LjNMMS41IDEwLjVsNi4zLTIuMnpNMTkgMTNsMSAzIDMgMS0zIDEtMSAzLTEtMy0zLTEgMy0xeiIvPjwvc3ZnPg%3D%3D" alt="AI integrations"/>
 </td>
 </tr>
 </table>
 
-<img src="https://skillicons.dev/icons?i=php,symfony,laravel,mysql,redis,elasticsearch,mongodb,docker,githubactions,flutter,dart&amp;theme=dark&amp;perline=11" alt="PHP, Symfony, Laravel, MySQL, Redis, Elasticsearch, MongoDB, Docker, GitHub Actions, Flutter, Dart"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,mysql,redis,elasticsearch,mongodb,docker,githubactions&amp;theme=dark&amp;perline=9" alt="PHP, Laravel, Symfony, MySQL, Redis, Elasticsearch, MongoDB, Docker, GitHub Actions"/>
 
 </div>
 
